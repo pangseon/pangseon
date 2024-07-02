@@ -2,61 +2,9 @@
 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile Stats</title>
-    <style>
-        body {
-            background-color: #0d1117;
-            color: white;
-            font-family: Arial, sans-serif;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
-        .container {
-            display: flex;
-            background-color: #0d1117;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-        }
-        .stats, .languages {
-            padding: 20px;
-        }
-        .stats img, .languages img {
-            max-width: 100%;
-            height: auto;
-        }
-        .languages {
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <div class="stats">
-            <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-                <img src="https://github-readme-stats.vercel.app/api?username=pangseon&show_icons=true&theme=dark#gh-dark-mode-only" alt="Anurag's GitHub stats">
-            </a>
-            <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-                <img src="https://github-readme-stats.vercel.app/api?username=pangseon&show_icons=true&theme=default#gh-light-mode-only" alt="Anurag's GitHub stats">
-            </a>
-        </div>
-        <div class="languages">
-            <a href="https://github.com/anuraghazra/github-readme-stats">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pangseon" alt="Top Langs">
-            </a>
-        </div>
-    </div>
-</body>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=pangseon&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=pangseon&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pangseon)](https://github.com/anuraghazra/github-readme-stats)
 </html>
 
 <!--
