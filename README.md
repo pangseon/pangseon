@@ -1,12 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi%20I'm%20Pangseon&fontSize=90" />
 
-🏆 Ranking
-
-<a href="https://solved.ac/qoxowkd0716/">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pangseon" alt="Solved.ac/qoxowkd0716"/>
-</a>
-
-
 📊 Github Stats 📈
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
@@ -19,6 +12,9 @@
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-4479A1?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-4479A1?style=flat&logo=c++&logoColor=white)
+
 
 ### Tools & Frameworks
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
