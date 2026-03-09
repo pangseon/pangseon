@@ -1,29 +1,61 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi%20I'm%20Pangseon&fontSize=90" />
+# 안녕하세요, 박창선입니다 👋
 
-📊 Github Stats 📈
+백엔드 개발자로, 문제의 원인을 끝까지 파고드는 것을 좋아합니다.
+문서가 없으면 코드를 읽고, 레퍼런스가 없으면 직접 설계합니다.
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pangseon&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pangseon&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="Top Languages"/>
-</div>
+<br>
 
-## Skills
+## 🛠 Tech Stack
 
-### Languages
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-4479A1?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-4479A1?style=flat&logo=c++&logoColor=white)
+**Language**
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+**Framework**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-### Tools & Frameworks
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white)
+**Database & Cache**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
+**Infra & DevOps**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 
+**ORM & Query**
+![JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=hibernate&logoColor=white)
+![QueryDSL](https://img.shields.io/badge/QueryDSL-0769AD?style=flat-square)
 
+**Security & Auth**
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
+**Real-time**
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
+![STOMP](https://img.shields.io/badge/STOMP-010101?style=flat-square)
+
+**AI / Chatbot**
+![Rasa](https://img.shields.io/badge/Rasa-5A17EE?style=flat-square&logo=rasa&logoColor=white)
+
+<br>
+
+## 📌 Projects
+
+| 프로젝트 | 설명 | 기술 |
+|---------|------|------|
+| [Tablelog](https://github.com/chaosen0521/tablelog) | 레시피 공유 커뮤니티 백엔드 (진행 중) | Spring Boot, JPA/QueryDSL, WebSocket, Docker, Nginx |
+| Extra | 보조출연자 캐스팅 관리 플랫폼 | Spring Boot, Spring Security, Redis, AWS S3 |
+| LightHouseAI | AI 기반 서비스 | Spring Boot, JPA, AWS, React |
+| 딸깍! 레시피 | 레시피 추천 서비스 | Spring Boot, JPA, Svelte, GitHub Actions |
+
+<br>
+
+## 📫 Contact
+
+[![Gmail](https://img.shields.io/badge/chaplk@naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:chaplk@naver.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=white)](https://changseon.netlify.app)
